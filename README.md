@@ -13,6 +13,7 @@ Here imaged is the button cluster which has the buttons 'Clear', 'Start', and 'Q
 The program will start up with a pop-up window that informs the user of any bugs or important information they
 need to know before starting the program.
 
+# Running
 ![GIF](https://github.com/marklanglo/Tom-and-Jerry/blob/main/catmouse.gif)
 
 To use the program you must first enter valid information into the text fields, hovering the mouse over the field will show its
